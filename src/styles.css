@@ -1,0 +1,9 @@
+html,body{
+  background-color: blue;
+}
+
+input{ 
+  width: 100px;
+  height: 80px;
+  size: 50px;  
+}
